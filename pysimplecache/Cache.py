@@ -1,4 +1,4 @@
-"""A class to represent a cache of objects."""
+"""A class to represent a simple cache of objects."""
 # The MIT License (MIT)
 #
 # Copyright (c) 2018 Institute for Molecular Systems Biology, ETH Zurich.
